@@ -1,0 +1,22 @@
+.display {
+  margin-top: 19px;
+
+  div {
+    h2 {
+      margin-bottom: 19px;
+    }
+
+    ul {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      margin-bottom: 19px;
+    }
+  }
+}
+@media (min-width: 836px) {
+  .display {
+    margin-top: 0;
+    width: 100%;
+  }
+}

@@ -1,0 +1,19 @@
+.display {
+  padding: 30px 21px 42px;
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+
+  p {
+    margin-bottom: 25px;
+  }
+
+  button {
+    margin-top: 8px;
+  }
+}
+
+@media (min-width: 836px) {
+  .display {
+    width: 355px;
+  }
+}

@@ -1,0 +1,23 @@
+.amountBox {
+  padding: 20px 21px;
+  width: 100%;
+  border: 1px solid var(--gray300);
+  border-radius: 4px;
+  margin-top: 19px;
+
+  span {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 836px) {
+  .amountBox {
+    width: 355px;
+    margin-bottom: 1rem;
+  }
+}

@@ -1,0 +1,24 @@
+input,
+select {
+  padding: 0.6875rem;
+  border: 2px solid var(--gray400);
+  border-radius: 8px;
+  background-color: var(--gray400);
+  color: var(--gray100);
+  width: 100%;
+  font-family: var(--font-primary);
+  font-weight: 400;
+  font-size: 1rem;
+
+  &:focus {
+    background-color: #ffffff;
+    border-color: var(--gray100);
+  }
+}
+
+select {
+  cursor: pointer;
+  option {
+    background-color: var(--gray400);
+  }
+}
