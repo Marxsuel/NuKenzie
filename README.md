@@ -1,7 +1,10 @@
 Bem-vindo ao Nu-Kenzie 🚀
 
 O Nu-Kenzie é um projeto de CRUD baseado em um gerenciador de finanças. Com ele, você pode adicionar e remover valores da sua carteira e obter análises detalhadas dos valores inseridos.
-🛠 Tecnologias Utilizadas
+
+LINK PARA ACESSO: ---> https://nukenzie-3e1hz3whg-marxsuels-projects.vercel.app/ <---
+
+🛠 Tecnologias Utilizadas:
 
     React: Utilizado para a construção da interface do usuário.
     TypeScript (TSX): Usado para a criação de componentes e tipagem.
